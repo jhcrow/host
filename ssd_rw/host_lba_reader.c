@@ -9,6 +9,7 @@
 #include <fcntl.h>
 #include <assert.h>
 #include <malloc.h>
+#include <hahaha.h>
 
 #define SECT_SIZE 4096
 char *fname;
